@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://www.creativefabrica.com/wp-content/uploads/2019/07/Comic-Book-Bubble-Graphic-Pack-by-The-Gradient-Fox.jpg);
+  background-size: cover;
 }
 
 code {
